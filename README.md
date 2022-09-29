@@ -1,7 +1,8 @@
 # [ English ] School Meal( Lunch ) Inquiry System       
    
 Elementary, middle, and high school meals nationwide are available   
-Upload the DB file as well.
+Upload the DB file as well.    
+used Neis API   
 
 
 ## modules   
@@ -17,6 +18,7 @@ Copyright ©2021 ~ 2022 MeatRoast. All rights reserve
 
 전국 초중고 급식 시스템 조회 가능합니다    
 DB파일도 업로드 해드립니다   
+나이스 API를 사용했습니다.   
 
 ## modules   
 > 1. pip install pymysql   
