@@ -16,9 +16,9 @@ Copyright ©2021 ~ 2022 MeatRoast. All rights reserve
 
 # [ Korean ] 전국초중고 급식 조회 시스템   
 
-전국 초중고 급식 시스템 조회 가능합니다    
-DB파일도 업로드 해드립니다   
-나이스 API를 사용했습니다.   
+전국 초중고 급식 조회 시스템    
+나이스 API로 활용하여 제작 되었습니다     
+sql파일로 업로드 되어있으며 mysql로 사용했습니다.    
 
 ## modules   
 > 1. pip install pymysql   
